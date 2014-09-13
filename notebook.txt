@@ -1,0 +1,70 @@
+Date  Who    Start  Stop  Interruptions Question TimeOnTask       Comments
+
+9/03  IS     20:20  20:50       5                   25          Signed up for CCIS account
+9/04  IS     16:00  16:09                           09          Signed up for CS5010 on Piazza
+9/04  IS     16:30  16:55                           25          Installed Racket in laptop
+9/04  IS     16:40  17:55       15                  60          Registered for Github.com
+9/04  IS     18:20  19:00                           40          Downloaded Github for Windows
+9/05  IS     14:10  15:31       20                  61          John Clement's Racket videos
+9/05  IS     16:10  16:40       5                   25          Course welcome video-Lesson 0.3
+9/05  IS     17:00  18:40       10      	    90          Lesson 0.4-Introduction to Racket
+9/05  IS     18:50  19:30       10         1        30          Ex-1 (Couldn't understand exactly what the
+                                                                question wanted so it took a little more time)
+9/05  IS     19:30  19:50                  2        20          Ex-2
+9/06  IS     13:20  13:55       5          3        30          Ex-3 (Check-expect and check-within here took
+								more time to understand and implement) 
+9/06  IS     14:00  14:07     		   4 	    07		Ex-4
+9/06  IS     14:10  14:20                  5        10          Ex-5
+9/06  IS     14:30  14:50                  6        20          Ex-6
+9/06  IS     15:30  15:36                  7        06	   	Ex-7
+9/06  IS     15:40  15:50                  8        10          Ex-8
+9/06  IS     16:30  17:15                  9        45          Ex-9 (understanding the difference between modulo
+								and remainder took most of the time here, still
+								confused about the fractional part in even? 
+								predicate)
+9/06  IS     18:00  18:20                  10       20          Ex-10
+9/06  IS     19:00  19:05                           05          Registered for Gravatar 
+
+==================================== committing to git: 9/06 20:28 ===============================================
+
+Total Time On Preparing Laptop(minutes)             159 
+Total Time On Reading Material (minutes)            176 
+Total Time On Doing Exercises(minutes)              198 
+
+TOTtask1 (hours and tenths)                         2.65 
+TOTtask2 (hours and tenths)                         2.93
+TOTtask3 (hours and tenths)                         3.3
+
+Date  Who    Start  Stop  Interruptions Question TimeOnTask       Comments
+
+9/12  IS     11:20  11:30                  11        10           Started analysing Ex-11
+9/12  IS     11:30  11:35                  11         5           Asked TA about the question as couldn't get what
+								  the question was asking for
+9/12  IS     11:35  11:40                  11         5           Finished Ex-11
+9/12  IS     11:45  11:47                  12         2           Started analysing Ex-12
+9/12  IS     11:47  11:50                  12         3           Finished Ex-12
+9/12  IS     13:51  13:52                  13         1           Started analysing Ex-13 
+9/12  IS     13:52  13:54                  13         2           Finished Ex-13
+9/12  IS     14:00  14:01                  14         1           Started analysing Ex-14
+9/12  IS     14:00  14:01                  14         1           Started analysing Ex-14
+9/12  IS     14:01  14:06      2           14         3           Finished Ex-14
+9/12  IS     14:10  14:11                  15         1           Started analysing Ex-15
+9/12  IS     14:12  14:15                  15         3           Finished Ex-15
+9/12  IS     15:20  15:23                  16         3           Started analysing Ex-16
+9/12  IS     15:23  15:25                  16         2           Copied image to ps00
+9/12  IS     15:26  15:30                  16         4           Finished Ex-16
+9/12  IS     15:40  15:41                  17         1           Started analysing Ex-17
+9/12  IS     15:45  15:48                  17         3           Finished Ex-17
+9/12  IS     15:50  15:55                  18         5           Started Analysing Ex-18
+9/12  IS     15:55  16:05                  18         10          Finished Ex-18
+9/12  IS     16:10  16:12                  19         2           Started analysing Ex-19
+9/12  IS     16:12  16:16                  19         4           Finished Ex-19
+9/12  IS     19:11  19:15                  20         4           Started analysing Ex-20
+9/12  IS     19:25  19:40                  20         15          Finished Ex-20     
+
+==================================== committing to git: 9/12 19:55 ===============================================  
+
+Total Time On Doing Exercises(minutes)              90 
+
+TOTtask (hours and tenths)                         1.5
+

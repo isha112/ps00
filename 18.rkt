@@ -8,20 +8,18 @@
 ; formula for finding nth element in sequence: 2^n X 2^(n+1)
 ; where n is the sequence number of the element
 
-; rec-sequence : Number -> Number x Number
+; rec-sequence : Number -> Rectangle
 ; GIVEN : A number n which specifies sequence number of an element
 ; RETURNS : nth element in the rectangle sequence
 ; Examples
-; (rec-sequence 5) -> 32x64
-; (rec-sequence 10) -> 1024x2048
+; (rec-sequence 5) -> (rectangle 32 64 "solid" "blue")
+; (rec-sequence 2) -> (rectangle 4 8 "solid" "blue")
 
 (define (rec-sequence n)
-  (string-append (number->string (expt 2 n))
-                 "x"
-                 (number->string (expt 2
-                       (+ n 1)))))
+  (rectangle (expt 2 n)
+             (expt 2
+                   (+ n 1)) "solid" "blue"))
 
-(check-expect (rec-sequence 5) "32x64")
-(check-expect (rec-sequence 10) "1024x2048")
-
+(check-expect (rec-sequence 5) (rectangle 32 64 "solid" "blue"))
+(check-expect (rec-sequence 2) (rectangle 4 8 "solid" "blue"))
 
